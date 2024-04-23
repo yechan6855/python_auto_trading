@@ -1,0 +1,3 @@
+([('yechan',
+   '/Users/yechan/PycharmProjects/Auto_Trading/dist/yechan',
+   'EXECUTABLE')],)
